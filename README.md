@@ -1,3 +1,3 @@
 This is Just A Basic Amazon Clone.
-<br>
+<hr>
 Which I Copy from Apna College
